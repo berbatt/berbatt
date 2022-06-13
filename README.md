@@ -2,7 +2,7 @@
   -- If you want to build something like this to your profile you can directly fork this repo (by starring it of course :)) and then edit the content here... -->
 [![Profile views](https://gpvc.arturio.dev/berbatt)](https://github.com/berbatt)
 [![GitHub followers](https://img.shields.io/github/followers/berbatt?label=Follow&style=social)](https://github.com/berbatt)
-[![Linkedin: berbatt](https://img.shields.io/badge/-Follow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berbatt/)](https://www.linkedin.com/in/berbatt)
+[![Linkedin: berbatt](https://img.shields.io/badge/-Follow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yilmaz-berkay-bat/)](https://www.linkedin.com/in/yilmaz-berkay-bat)
 [![Gmail: berbatt](https://img.shields.io/badge/-Mail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:berkay.bat@gmail.com)](mailto:berkay.bat@gmail.com)
 <!-- Another hitCounter ![Visitor Count](https://profile-counter.glitch.me/berbatt/count.svg) -->
 
